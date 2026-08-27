@@ -1,0 +1,19 @@
+CACHE MANIFEST
+# PSFree-Lapse-v2
+
+cache.html
+index.html
+background.jpg
+505exploit.js
+672entrypoint.js
+672kexploit.js
+psfree_lapse_helpers.js
+kpatches.js
+payload.bin
+fancontrol.bin
+psfree.js
+lapse.js
+main.js
+
+NETWORK:
+*
